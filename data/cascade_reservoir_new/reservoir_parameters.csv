@@ -1,0 +1,6 @@
+reservoir_id,name_cn,order,installed_capacity_mw,max_turbine_flow_m3s,max_total_release_m3s,typical_net_head_m
+WDD,乌东德,1,10200,8080,35000,143.0
+BHT,白鹤滩,2,16000,8600,42348,202.0
+XLD,溪洛渡,3,12600,7500,52300,185.0
+XJB,向家坝,4,6400,7056,48660,100.0
+THR,三峡,5,22500,31885,102500,80.6
